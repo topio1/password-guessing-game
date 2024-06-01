@@ -1,6 +1,6 @@
 const words = {
     5: ["apple", "bread", "crane", "drive", "eagle", "flame", "grape", "house", "input", "joker"],
-    6: ["banana", "circle", "dynamo", "effort", "flying", "glance", "hammer", "island", "jacket", "kitten"],
+    6: ["banana", "circle", "dynamo", "effort", "flying", "glance", "hammer", "island", "jacket", "kitten", "mitten"],
     7: ["baggage", "cushion", "dynamic", "element", "freedom", "giraffe", "horizon", "impulse", "justice", "kingdom"]
 };
 
